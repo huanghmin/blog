@@ -9,5 +9,5 @@ export const db = {
 export const  dbName = {
     database:'hhm_blog',
 }
-export const base_API = 'api/'
+export const base_API = '/api'
 export const secret = 'hhm_blog'

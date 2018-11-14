@@ -3,7 +3,7 @@ const mutations = {
   SET_TOKEN:(state,token)=>{
     state.token = token
   },
-  SET_USERNAME:(state,name)=>{
+  SET_USERNAME:(state,username)=>{
     state.username = username
 }
 }
